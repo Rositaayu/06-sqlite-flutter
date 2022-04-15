@@ -9,8 +9,11 @@ Prodi : D3 Manajemen Informatika <br>
 Kelas : MI - 2C <br>
 Absen : 24
 
-## Hasil Praktikum SQLITE
-![image.png](assets/img/gambar1.png) <br>
-![image.png](assets/img/gambar2.png) <br>
+## Hasil Praktikum Navigasi Rute
+![image.png](assets/img/gambar1.jpeg) <br>
+![image.png](assets/img/gambar2.jpeg) <br>
+![image.png](assets/img/gambar3.jpeg) <br>
+![image.png](assets/img/gambar4.jpeg) <br>
+![image.png](assets/img/gambar5.jpeg)
 
 <br>

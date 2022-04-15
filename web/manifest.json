@@ -1,6 +1,6 @@
 {
-    "name": "db_sqlite",
-    "short_name": "db_sqlite",
+    "name": "j6_database_sqllite",
+    "short_name": "j6_database_sqllite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

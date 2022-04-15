@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.db_sqlite">
+    package="com.example.j6_database_sqllite">
    <application
-        android:label="db_sqlite"
+        android:label="j6_database_sqllite"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
