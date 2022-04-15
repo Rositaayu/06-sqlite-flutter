@@ -1,4 +1,4 @@
-name: j6_database_sqllite
+name: flutter_database_sqlite
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to

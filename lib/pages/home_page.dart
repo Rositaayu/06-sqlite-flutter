@@ -1,8 +1,8 @@
 // MI 2C_24_Rosita Ayu Tri Lestari
 
 import 'package:flutter/material.dart';
-import 'package:j6_database_sqllite/pages/item_list.dart';
-import 'package:j6_database_sqllite/pages/entry_form.dart';
+import 'package:flutter_database_sqlite/pages/item_list.dart';
+import 'package:flutter_database_sqlite/pages/entry_form.dart';
 import '../helpers/db_helper.dart';
 import '../models/item.dart';
 
